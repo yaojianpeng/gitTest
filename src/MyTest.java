@@ -7,5 +7,6 @@ public class MyTest {
 	System.out.println("你这个臭撒比");
 	System.out.println(123456);
 	System.out.println("fasd");
+	System.out.println("asdfsdadfsd");
 }
 }
