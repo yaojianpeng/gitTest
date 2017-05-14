@@ -5,5 +5,6 @@ public class MyTest {
 	System.out.println("fasdfasdf");
 	System.out.println("呆萌戴梦得女生");
 	System.out.println("你这个臭撒比");
+	System.out.println(123456);
 }
 }
